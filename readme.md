@@ -1,6 +1,6 @@
 <center>
 
-![Fitesa](https://fitesa.visualstudio.com/64c7ebb4-168e-4124-9b9d-d74655bd674f/_apis/git/repositories/5bb03bd5-1119-4bed-8029-abeab0f96101/items?path=/demo-app/src/assets/images/fitesa.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=build-pipeline&resolveLfs=true&%24format=octetStream&api-version=5.0)
+![WebPAge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQ-K1xNu0jBxbHad4TtApLse7qliEWUcNuw&s)
 
 
 # Dummy web page
